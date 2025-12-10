@@ -4,7 +4,7 @@ A side-scrolling 2D platformer built in C++ using SDL2, OpenGL/GLSL, and SDL_mix
 
 <br> <br>
 
-**Features:**
+## **Features:**
 
 - Multi-scene system (Menu, Levels, Win/Lose screens)
 
@@ -20,7 +20,7 @@ A side-scrolling 2D platformer built in C++ using SDL2, OpenGL/GLSL, and SDL_mix
 
 <br> <br>
 
-**Technologies Used:**
+## **Technologies Used:**
 
 - C++
 
@@ -36,9 +36,9 @@ A side-scrolling 2D platformer built in C++ using SDL2, OpenGL/GLSL, and SDL_mix
 
 <br> <br>
 
-**Controls:**
+## **Controls:**
 
-**Player:**
+### **Player:**
 
 - Left Arrow – Move Left
 
@@ -48,7 +48,7 @@ A side-scrolling 2D platformer built in C++ using SDL2, OpenGL/GLSL, and SDL_mix
 
 <br> <br>
 
-**Extra Mechanics:**
+## **Extra Mechanics:**
 
 - Limited lives system
 
@@ -58,7 +58,7 @@ A side-scrolling 2D platformer built in C++ using SDL2, OpenGL/GLSL, and SDL_mix
 
 <br> <br>
 
-**Game Rules:**
+## **Game Rules:**
 
 - Reach the end of each level to progress.
 
@@ -68,7 +68,7 @@ A side-scrolling 2D platformer built in C++ using SDL2, OpenGL/GLSL, and SDL_mix
 
 <br> <br>
 
-**Project Structure:**
+## **Project Structure:**
 
 - /project-root
 
@@ -108,16 +108,16 @@ A side-scrolling 2D platformer built in C++ using SDL2, OpenGL/GLSL, and SDL_mix
 
 <br> <br>
 
-**How to Run:**
+## **How to Run:**
 
-**Prerequisites:**
+### **Prerequisites:**
 
 - Install SDL2, SDL_mixer, OpenGL, and GLM.
 
-**Build (example using g++):**
+### **Build (example using g++):**
 
 - g++ main.cpp *.cpp -lSDL2 -lSDL2_mixer -lOpenGL -ldl -o platformer
 
-Run:
+### **Run:**
 
 - ./platformer
