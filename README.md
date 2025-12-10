@@ -1,4 +1,4 @@
-**Platformer Game**
+# **Platformer Game**
 
 A side-scrolling 2D platformer built in C++ using SDL2, OpenGL/GLSL, and SDL_mixer. This project features multi-level gameplay, scene management, physics-based movement, and audio integration.
 
